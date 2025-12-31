@@ -608,6 +608,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [mcman](https://github.com/Senth/minecraft-mod-manager) - CLI Modrinth mod manager.
 - [mCubed](https://github.com/4JX/mCubed) - Experimental GUI mod manager.
 - [Mod Manager](https://github.com/kaniol-lck/modmanager) - Qt-based mod manager with support for Curseforge, Modrinth, OptiFine and ReplayMod.
+- [Shard Launcher](https://github.com/Th0rgal/shard) - Open-source Minecraft launcher with declarative profiles, content-addressed storage, and Modrinth/CurseForge integration.
 - [StopModReposts](https://github.com/StopModReposts/Illegal-Mod-Sites) - List of websites that are illegally redistributing Minecraft mods.
 
 <div align="right">
